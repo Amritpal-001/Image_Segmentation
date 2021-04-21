@@ -1,8 +1,7 @@
 # Image segmentation
 
 
-##Files
-
+## Files
  - Thyroid gland segmentation
 	 - competition from Grand challenges
 	 - Segmenting gland from Ultrasound scans
